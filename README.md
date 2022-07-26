@@ -1,7 +1,7 @@
 # Bankist
 
 > A fictional online banking application
-> Live 
+> Live https://bankist-absd.netlify.app/
 
 ## Table of Contents
 
@@ -16,7 +16,7 @@
 
 - A minimalistic modern bank company.
 - Providing security, integrity and a simplistic menu for the user.
-- You can open your account in less than 5 minutes. 
+- You can open your account in less than 5 minutes.
 
 ## Built With
 
@@ -32,12 +32,12 @@
 
 ## Project Status
 
-Project is: \_under construction
+Project is: \_Finished
 
 ## Version History
 
--1.0
-Initial Release - Works with Javascript
+-2.0
+Final Release
 
 ## Authors
 
@@ -45,7 +45,7 @@ Contributors names and contact info
 
 Anastasios Basiadimas
 
-Project Link: 
+Project Link:
 
 ## Acknowledgements
 
